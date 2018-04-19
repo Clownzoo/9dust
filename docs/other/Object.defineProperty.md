@@ -1,13 +1,17 @@
+## Object.defineProperty() {docsify-ignore}
+
 > Object.defineProperty()在IE9及IE9以上才被支持，它接受三个参数，而且都是必填的。
 
 
 1. 第一个参数:目标对象
 2. 第二个参数:需要定义的属性或方法的名字
-3. 第三个参数:目标属性所拥有的特性;（descriptor）  
-### descriptor  
+3. 第三个参数:目标属性所拥有的特性;（descriptor
+
+ 
+## descriptor {docsify-ignore}
 *descriptor这里我们统称是Object.defineProperty()这个方法的第三个参数，并且它拥有以下的取值*  
 
-- value
+## value
 
 ```js
 var obj = {};
@@ -18,7 +22,7 @@ console.log(obj)  //{hello:"hello"}
 
 //这个参数较为好理解，如果说第一个参数是一个对象A，那么第二个参数则为对象A的一个属性B，那么value即为属性B的一个值;
 ```
-- writable
+## writable
 
 ```js
 var obj = {};
@@ -33,7 +37,7 @@ console.log(obj.hello)  //hello
 
 ```
 
-- configurable
+## configurable
 
 ```js
 /**
@@ -97,7 +101,7 @@ console.log(obj.hello)  //hello
 ```
 
 
-- enumerable
+## enumerable
 
 ```js
 /**
@@ -137,7 +141,7 @@ Object.defineProperty(obj,'hello',{
 });
 //定义的新属性后，这个属性的特性中configurable，enumerable，writable都为默认的值false
 ```
-- 存取器 get/set
+## 存取器 get/set
 
 ```js
 var obj = {};
