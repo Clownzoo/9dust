@@ -1,7 +1,7 @@
 * Web
   * [HTML](web/html.md)
-  * [ECMAScript 6](web/es6.md)
-  * [css scss less](web/style.md)
+  * [style](web/style.md)
+  * [javaScript](web/es6.md)
 * web Tool
   * [google](webTool/google.md)
   * [Atom](webTool/atom.md)

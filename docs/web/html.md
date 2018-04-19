@@ -77,6 +77,24 @@
 ```
 *原理就是将透明的input层叠在p标签的上层，然后样式全部交给p标签来处理。另外由于file类型比较特殊，左边按钮，右边文件路径，所有要让按钮占满p元素，只能去设置font-size的css去撑大按钮，相应的radio和checkbox自定义亦可以用同样的方法实现，只是不需要font-size了。*
 
+## 关于img中的base64渲染
+
+图片现在的格式也是层出不穷，比如 `svg webp iconfont ...等等`,但是有时候需求也会有base64的格式问题，那么要怎么拿到这个base64转换成图片呢。
+
+```html
+<!--正常来说，图片直接拉取一个url就完事了，这个不谈，都会-->
+<img src="http//:xxxxxxxxxxxx" alt="图片属性">
+
+<!--非正常来说，我要base64呢？-->
+<!--
+    下面这个是base64字符串
+    /9j/ssslkssklskl省略很多很多....
+-->
+
+<img src="data:image/png;base64,/9j/ssslkssklskl......">
+<!--拼接上去，就大功告成了-->
+```
+
 
 
 
