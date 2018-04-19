@@ -2,9 +2,11 @@
   * [HTML](web/html.md)
   * [style](web/style.md)
   * [javaScript](web/es6.md)
+* web Tool
+  * [google](webTool/google.md)
+  * [Atom](webTool/atom.md)
+  * [webStorm](webTool/webStorm.md)
 * 独立板块
-  * [Object.defineProperty](other/Object.defineProperty.md)
-  * [Javascript的严格模式](other/关于Javascript的严格模式.md)
 * Vue
 * React
 * 小程序
