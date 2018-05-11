@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cb826c4-4ba7-47a8-b5c5-7584d9fb4d9e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/web/es6.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/web/es6.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/docs/web/es6.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="149">
-                <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+              <first_editor relative-caret-position="282">
+                <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
               </first_editor>
               <second_editor />
             </state>
@@ -234,12 +232,12 @@
       <updated>1524107489388</updated>
       <workItem from="1524107492120" duration="11785000" />
       <workItem from="1525419299482" duration="3000" />
-      <workItem from="1526018374970" duration="4852000" />
+      <workItem from="1526018374970" duration="5087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16640000" />
+    <option name="totallyTimeSpent" value="16875000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="95" width="1148" height="702" extended-state="0" />
@@ -606,8 +604,8 @@
     <entry file="file://$PROJECT_DIR$/docs/web/es6.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="149">
-            <caret line="89" column="23" selection-start-line="89" selection-start-column="23" selection-end-line="89" selection-end-column="23" />
+          <first_editor relative-caret-position="282">
+            <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
           </first_editor>
           <second_editor />
         </state>
