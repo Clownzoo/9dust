@@ -5,7 +5,7 @@
 * 独立板块
   * [Object.defineProperty](other/Object.defineProperty.md)
   * [Javascript的严格模式](other/关于Javascript的严格模式.md)
-* Vue
+* [Vue](vue/vue.md)
 * React
 * 小程序
 * node.js
