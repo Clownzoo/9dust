@@ -2,6 +2,7 @@
   * [HTML](web/html.md)
   * [style](web/style.md)
   * [es5/es6](web/es6.md)
+  * [canvas](web/canvas.md)
 * 独立板块
   * [Object.defineProperty](other/Object.defineProperty.md)
   * [Javascript的严格模式](other/关于Javascript的严格模式.md)
